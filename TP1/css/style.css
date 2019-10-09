@@ -1,0 +1,19 @@
+.question{
+	background: #9EEAE0;
+	border-style: groove;
+	border-width: 4px;
+	width: 900px;
+	height: 250px;
+	margin: 20px;
+}
+
+.texte{
+	float: left;
+	width: 90%;
+
+}
+
+img{
+	float: right;
+	margin-top: 80px;
+}
