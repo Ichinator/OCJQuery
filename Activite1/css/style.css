@@ -1,0 +1,20 @@
+body {
+        margin: 0;
+      }
+      #gauche {
+        float: left;
+        width: 70%;
+        height: 1000px;
+        background-color: #EFECCA;
+      }
+      #droite {
+        background-color: #CEFFF8;
+        height: 1000px;
+        padding : 10px;
+        padding-left: 71%;
+      }
+
+      #gauche span::before {
+        content: '\A'; 
+        white-space: pre;
+      }
